@@ -10,7 +10,7 @@ ___INFO___
 
 {
   "displayName": "Idealmedia Pixel",
-  "description": "Use the Idealmedia Pixel for retargeting and conversion tracking.",
+  "description": "Use the Idealmedia Pixel for create your news.",
   "categories": ["AUTOCREATIVE SCRIPT"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
